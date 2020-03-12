@@ -26,7 +26,7 @@ Here you can see the progress.
 
 **Rational Romance**
 
-**Realistic Planets**
+**Realistic Planets** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Realistic-Planets/releases/latest
 
 **Rim Disorders**
 
