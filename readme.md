@@ -16,7 +16,7 @@ Here you can see the progress.
 
 **Fishing** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Fishing/releases/latest
 
-**Packed Lunches**
+**Packed Lunches** -- Done at https://github.com/firefoxpdm/Rainbeau-s-Packed-Lunches/releases/latest
 
 **Pawns Are Capable!**
 
