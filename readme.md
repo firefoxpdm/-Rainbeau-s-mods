@@ -22,7 +22,7 @@ Here you can see the progress.
 
 **Permafrost** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Permafrost/releases/latest
 
-**Rainbeau Flambe - Storyteller**
+**Rainbeau Flambe - Storyteller** – Done at https://github.com/firefoxpdm/Rainbeau-Flambe---Storyteller/releases/latest Some configurations has changed between 1.0 and 1.1, in these cases I tried to pick the settings that resembled the original ones the closest. Check the release notes for the technicalities.
 
 **Rational Romance**
 
