@@ -38,7 +38,7 @@ Here you can see the progress.
 
 **Tribal Raiders**
 
-**Wild Cultivation**
+**Wild Cultivation** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Wild-Cultivation/releases/latest
 
 If you find some issues with them, please open a ticket. Since I am not the creator, it is unlikely that I can provide any new features.
 
