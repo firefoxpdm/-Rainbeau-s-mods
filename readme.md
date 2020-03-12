@@ -10,7 +10,7 @@ Here you can see the progress.
 
 **Editable Backstories and Names** -- I had a look, but the whole character generation has changed a lot. I would rather go for the simpler mods first, and come back to this later if I can.
 
-**Etched Stone Walls**
+**Etched Stone Walls** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Etched-Stone-Walls/releases/latest
 
 **Fertile Fields** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Fertile-Fields/releases/latest
 
