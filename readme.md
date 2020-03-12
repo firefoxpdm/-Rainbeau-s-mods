@@ -8,11 +8,11 @@ Here you can see the progress.
 
 **Concrete** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Concrete/releases/latest
 
-**Editable Backstories and Names** - I had a look, but the whole character generation has changed a lot. I would rather go for the simpler mods first, and come back to this later if I can.
+**Editable Backstories and Names** -- I had a look, but the whole character generation has changed a lot. I would rather go for the simpler mods first, and come back to this later if I can.
 
 **Etched Stone Walls**
 
-**Fertile Fields**
+**Fertile Fields** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Fertile-Fields/releases/latest
 
 **Fishing** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Fishing/releases/latest
 
