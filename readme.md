@@ -36,7 +36,7 @@ Here you can see the progress.
 
 **Tribal Pawn Names**
 
-**Tribal Raiders**
+**Tribal Raiders** -- A pre-release version is available at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Raiders/releases/tag/v1.1.0 This mod contains new backstories for raiders, the handling of which has changed between 1.0 and 1.1. It has the same problems as the editable backstories and names mod. However, since here this feels just like an additional thing instead of the main functionality, I have decided to remove them (the backstories) to provide a first draft, and will revisit it once I figure out how they can be integrated into 1.1. You will also see error messages pop up along the lines of "No shuffled Childhood found for archer chief of TribalRaiders. Choosing random.". These should be safe to ignore.
 
 **Wild Cultivation** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Wild-Cultivation/releases/latest
 
