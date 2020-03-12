@@ -20,7 +20,7 @@ Here you can see the progress.
 
 **Pawns Are Capable!**
 
-**Permafrost**
+**Permafrost** -- Done* at https://github.com/firefoxpdm/Rainbeau-s-Permafrost/releases/latest
 
 **Rainbeau Flambe - Storyteller**
 
