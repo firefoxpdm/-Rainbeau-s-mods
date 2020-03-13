@@ -28,7 +28,7 @@ Here you can see the progress.
 
 **Realistic Planets** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Realistic-Planets/releases/latest
 
-**Rim Disorders**
+**Rim Disorders** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Rim-Disorders/releases/latest
 
 **Rumor Has It** –  Done* at https://github.com/firefoxpdm/Rainbeau-s-Rumor-Has-It/releases/latest
 
