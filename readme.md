@@ -32,7 +32,7 @@ Here you can see the progress.
 
 **Rumor Has It**
 
-**Scenarios**
+**Scenarios** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Scenarios/releases/latest
 
 **Tribal Pawn Names** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Pawn-Names/releases/latest
 
