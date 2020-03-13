@@ -30,7 +30,7 @@ Here you can see the progress.
 
 **Rim Disorders**
 
-**Rumor Has It**
+**Rumor Has It** –  Done* at https://github.com/firefoxpdm/Rainbeau-s-Rumor-Has-It/releases/latest
 
 **Scenarios** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Scenarios/releases/latest
 
