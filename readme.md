@@ -18,7 +18,7 @@ Here you can see the progress.
 
 **Packed Lunches** – Done at https://github.com/firefoxpdm/Rainbeau-s-Packed-Lunches/releases/latest
 
-**Pawns Are Capable!** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Pawns-are-Capable/releases
+**Pawns Are Capable!** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Pawns-are-Capable/releases/latest
 
 **Permafrost** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Permafrost/releases/latest
 
