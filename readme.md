@@ -24,7 +24,8 @@ Long story short, please check Kiame Vivacity's upgrade at https://steamcommunit
 
 **Permafrost** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Permafrost/releases/latest
 
-**Rainbeau Flambe - Storyteller** – Done at https://github.com/firefoxpdm/Rainbeau-Flambe---Storyteller/releases/latest Some configurations has changed between 1.0 and 1.1, in these cases I tried to pick the settings that resembled the original ones the closest. Check the release notes for the technicalities.
+**Rainbeau Flambe - Storyteller** – Done at https://github.com/firefoxpdm/Rainbeau-Flambe---Storyteller/releases/latest
+Some configurations has changed between 1.0 and 1.1, in these cases I tried to pick the settings that resembled the original ones the closest. Check the release notes for the technicalities.
 
 **Rational Romance** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Rational-Romance/
 
@@ -38,7 +39,7 @@ Long story short, please check Kiame Vivacity's upgrade at https://steamcommunit
 
 **Tribal Pawn Names** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Pawn-Names/releases/latest
 
-**Tribal Raiders** – A pre-release version is available at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Raiders/releases/latest This mod contains new backstories for raiders, the handling of which has changed between 1.0 and 1.1. It has the same problems as the editable backstories and names mod. However, since here this feels just like an additional thing instead of the main functionality, I have decided to remove them (the backstories) to provide a first draft, and will revisit it once I figure out how they can be integrated into 1.1. You will also see error messages pop up along the lines of "No shuffled Childhood found for archer chief of TribalRaiders. Choosing random.". These should be safe to ignore.
+**Tribal Raiders** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Raiders/releases/latest
 
 **Wild Cultivation** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Wild-Cultivation/releases/latest
 
