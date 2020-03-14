@@ -8,7 +8,9 @@ Here you can see the progress.
 
 **Concrete** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Concrete/releases/latest
 
-**Editable Backstories and Names** – I had a look, but the whole character generation has changed a lot. I would rather go for the simpler mods first, and come back to this later if I can.
+**Editable Backstories and Names** – I am not going to migrate this mod. The categories have changed: not only names, but also which pawn types they are supposed to cover. I am not even sure I know all the currently existing ones as there doesn't seem to be an enum covering them. I am also sure that "Outlander, Offworld, Tribal, Pirate, and ImperialRoyal" are not all of the existing ones, because if they are then the base game is broken as it lists "Civil" as the sole category in the fallback backstory filter. Additionally, this pack doesn't contain any royal backstories, which means exclusive use of this mod's backstories (the default setting) with the Royalty mod would trigger errors and break immersion completely. As for the names part, they are far too tied together with the backstories and the extra filtering RF was trying to do with the backstories, so I'd rather not touch any of that.
+What I *could* see happening is to create a mod for name and backstory handling in place of the original one, and then creating mods that add names and backstories based on this, but that would no longer be a rewrite of this mod, and it would require someone to create the missing backstories for the Royalty update.
+Long story short, please check Kiame Vivacity's upgrade at https://steamcommunity.com/workshop/filedetails/?id=2020029291 if you still want to have this.
 
 **Etched Stone Walls** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Etched-Stone-Walls/releases/latest
 
@@ -36,7 +38,7 @@ Here you can see the progress.
 
 **Tribal Pawn Names** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Pawn-Names/releases/latest
 
-**Tribal Raiders** – A pre-release version is available at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Raiders/releases/tag/v1.1.0 This mod contains new backstories for raiders, the handling of which has changed between 1.0 and 1.1. It has the same problems as the editable backstories and names mod. However, since here this feels just like an additional thing instead of the main functionality, I have decided to remove them (the backstories) to provide a first draft, and will revisit it once I figure out how they can be integrated into 1.1. You will also see error messages pop up along the lines of "No shuffled Childhood found for archer chief of TribalRaiders. Choosing random.". These should be safe to ignore.
+**Tribal Raiders** – A pre-release version is available at https://github.com/firefoxpdm/Rainbeau-s-Tribal-Raiders/releases/latest This mod contains new backstories for raiders, the handling of which has changed between 1.0 and 1.1. It has the same problems as the editable backstories and names mod. However, since here this feels just like an additional thing instead of the main functionality, I have decided to remove them (the backstories) to provide a first draft, and will revisit it once I figure out how they can be integrated into 1.1. You will also see error messages pop up along the lines of "No shuffled Childhood found for archer chief of TribalRaiders. Choosing random.". These should be safe to ignore.
 
 **Wild Cultivation** – Done* at https://github.com/firefoxpdm/Rainbeau-s-Wild-Cultivation/releases/latest
 
